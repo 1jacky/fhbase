@@ -1,0 +1,1 @@
+/opt/data/app/mydb/my.tar.gz
